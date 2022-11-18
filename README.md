@@ -18,7 +18,10 @@ npm install
 ```
 docker compose up
 ```
-
+# Manual image Download
+```
+docker pull dd3ll/node-cup
+```
 # API Endpoints
 
 - POST
